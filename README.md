@@ -1,1 +1,2 @@
-# End2End-MLOps-Project-1
+#MLOps Foundations
+A collection of fundamental tools and concepts.
