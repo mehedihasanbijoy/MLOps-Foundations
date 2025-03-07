@@ -42,3 +42,9 @@ pip install -r requirements.txt
         - Allows custom HTTP responses (set headers, cookies, etc.).
         - Modify response headers.
         - Attach cookies.
+
+    ## URL_FOR:
+        - It is a Flask function that dynamically generates URLs based on route function names, ensuring flexibility and maintainability.
+        - Avoids hardcoding URLs.
+        - Handles route parameters.
+        - Helps in redirects by ensuring that redirect sent to the correct page.
