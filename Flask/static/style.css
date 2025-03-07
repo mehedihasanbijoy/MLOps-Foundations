@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 8px;
+    width: 200px;
+}
+
+button {
+    padding: 8px 12px;
+    margin-left: 5px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background: white;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;  /* Align text and buttons */
+    gap: 10px;  /* Creates small spacing between task and buttons */
+}
+
+.task-text {
+    flex-grow: 1;  /* Ensures the text takes up remaining space */
+}
+
+.task-buttons {
+    display: flex;
+    gap: 5px;  /* Small spacing between edit & delete buttons */
+}
+
+a {
+    text-decoration: none;
+    padding: 5px;
+    background-color: #dc3545;
+    color: white;
+    border-radius: 3px;
+}
+
+a.edit {
+    background-color: #007bff;  /* Blue for Edit */
+}
+
+a:hover {
+    opacity: 0.8;
+}
