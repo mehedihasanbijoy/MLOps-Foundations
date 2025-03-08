@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOpsProjects/MLflow%20keras/mlruns/315369149838321762/87f8fd3a5e964381bf982120157aa3e1/artifacts
+end_time: 1741423934201
+entry_point_name: ''
+experiment_id: '315369149838321762'
+lifecycle_stage: active
+run_id: 87f8fd3a5e964381bf982120157aa3e1
+run_name: rambunctious-ox-567
+run_uuid: 87f8fd3a5e964381bf982120157aa3e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741423853645
+status: 3
+tags: []
+user_id: mhbsh

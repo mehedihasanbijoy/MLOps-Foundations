@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOpsProjects/MLflow%20keras/mlruns/315369149838321762/a3430699c96546b89e40405936e9c58c/artifacts
+end_time: 1741423924740
+entry_point_name: ''
+experiment_id: '315369149838321762'
+lifecycle_stage: active
+run_id: a3430699c96546b89e40405936e9c58c
+run_name: selective-chimp-710
+run_uuid: a3430699c96546b89e40405936e9c58c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741423913775
+status: 3
+tags: []
+user_id: mhbsh

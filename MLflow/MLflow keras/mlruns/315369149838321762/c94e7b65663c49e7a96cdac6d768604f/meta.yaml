@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOpsProjects/MLflow%20keras/mlruns/315369149838321762/c94e7b65663c49e7a96cdac6d768604f/artifacts
+end_time: 1741423680775
+entry_point_name: ''
+experiment_id: '315369149838321762'
+lifecycle_stage: active
+run_id: c94e7b65663c49e7a96cdac6d768604f
+run_name: languid-midge-601
+run_uuid: c94e7b65663c49e7a96cdac6d768604f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741423678259
+status: 4
+tags: []
+user_id: mhbsh

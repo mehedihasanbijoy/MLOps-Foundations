@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOpsProjects/MLflow%20keras/mlruns/315369149838321762/2f05e956d9484b42938b163f1960640f/artifacts
+end_time: 1741423869352
+entry_point_name: ''
+experiment_id: '315369149838321762'
+lifecycle_stage: active
+run_id: 2f05e956d9484b42938b163f1960640f
+run_name: charming-carp-351
+run_uuid: 2f05e956d9484b42938b163f1960640f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741423853745
+status: 3
+tags: []
+user_id: mhbsh

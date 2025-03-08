@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOpsProjects/MLflow%20keras/mlruns/315369149838321762/e7a90c2d3bff49809846fc1ad596cd4a/artifacts
+end_time: 1741423680770
+entry_point_name: ''
+experiment_id: '315369149838321762'
+lifecycle_stage: active
+run_id: e7a90c2d3bff49809846fc1ad596cd4a
+run_name: nosy-shrimp-38
+run_uuid: e7a90c2d3bff49809846fc1ad596cd4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741423678563
+status: 4
+tags: []
+user_id: mhbsh

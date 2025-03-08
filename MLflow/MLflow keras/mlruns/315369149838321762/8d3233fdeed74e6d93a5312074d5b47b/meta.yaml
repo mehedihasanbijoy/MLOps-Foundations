@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOpsProjects/MLflow%20keras/mlruns/315369149838321762/8d3233fdeed74e6d93a5312074d5b47b/artifacts
+end_time: 1741423707660
+entry_point_name: ''
+experiment_id: '315369149838321762'
+lifecycle_stage: active
+run_id: 8d3233fdeed74e6d93a5312074d5b47b
+run_name: kindly-crab-290
+run_uuid: 8d3233fdeed74e6d93a5312074d5b47b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741423705913
+status: 4
+tags: []
+user_id: mhbsh

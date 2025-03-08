@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a889f1ded0db4f088617d48e935cf661/artifacts
+end_time: 1741373740779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a889f1ded0db4f088617d48e935cf661
+run_name: smiling-swan-951
+run_uuid: a889f1ded0db4f088617d48e935cf661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741373633044
+status: 3
+tags: []
+user_id: mhbsh

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOpsProjects/MLflow%20keras/mlruns/315369149838321762/7a0b68421c6542bea1d1f6d042e7df5f/artifacts
+end_time: 1741423902731
+entry_point_name: ''
+experiment_id: '315369149838321762'
+lifecycle_stage: active
+run_id: 7a0b68421c6542bea1d1f6d042e7df5f
+run_name: loud-shoat-624
+run_uuid: 7a0b68421c6542bea1d1f6d042e7df5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741423891760
+status: 3
+tags: []
+user_id: mhbsh

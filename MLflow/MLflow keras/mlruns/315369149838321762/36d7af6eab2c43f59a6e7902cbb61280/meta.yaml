@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOpsProjects/MLflow%20keras/mlruns/315369149838321762/36d7af6eab2c43f59a6e7902cbb61280/artifacts
+end_time: 1741423707666
+entry_point_name: ''
+experiment_id: '315369149838321762'
+lifecycle_stage: active
+run_id: 36d7af6eab2c43f59a6e7902cbb61280
+run_name: agreeable-whale-392
+run_uuid: 36d7af6eab2c43f59a6e7902cbb61280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741423705817
+status: 4
+tags: []
+user_id: mhbsh

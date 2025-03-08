@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOpsProjects/MLflow%20keras/mlruns/315369149838321762/c3ac07fc914e4d49b922998618270b56/artifacts
+end_time: 1741423880555
+entry_point_name: ''
+experiment_id: '315369149838321762'
+lifecycle_stage: active
+run_id: c3ac07fc914e4d49b922998618270b56
+run_name: redolent-conch-145
+run_uuid: c3ac07fc914e4d49b922998618270b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741423869384
+status: 3
+tags: []
+user_id: mhbsh
