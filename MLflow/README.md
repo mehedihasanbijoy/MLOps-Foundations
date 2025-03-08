@@ -12,7 +12,7 @@ It is an open-source platform that manages the end-to-end machine learning lifec
 
 
 # Main Concepts of MLflow
-MLflow consists of four main components: MLflow Tracking, MLflow Projects, MLflow Models, and MLflow Model Registry.
+MLflow consists of four main components: `MLflow Tracking`, `MLflow Projects`, `MLflow Models`, and `MLflow Model Registry`.
 
 
 ## MLflow Tracking
